@@ -1,4 +1,4 @@
-public class childoradult {
+public class ChildOrAdult {
     public static void main(String[] args) {
         System.out.print("Enter your age: ");
         int age = In.nextInt();

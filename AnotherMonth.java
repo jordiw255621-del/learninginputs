@@ -22,4 +22,4 @@ public class AnotherMonth {
 // array indices start at 0. So if the user inputs 1, we access months[0] which
 // is
 // "January" and days[0] which is 31.
-// This is more efficient than having 12 separate if statements for each month,
+// This is more efficient than having 12 separate if statements for each month
